@@ -1,0 +1,30 @@
+# 情绪研究知识库的 .gitignore 文件
+
+# 排除PDF文件（太大，不适合Git）
+*.pdf
+
+# 排除临时文件
+*.tmp
+*.temp
+~*
+
+# 排除系统文件
+.DS_Store
+Thumbs.db
+
+# 排除编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 排除构建产物
+__pycache__/
+*.pyc
+
+# 保留原始Markdown文件
+!*.md
+
+# 保留SCHEMA等配置文件
+!SCHEMA.md
+!README.md
