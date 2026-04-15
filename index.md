@@ -71,6 +71,8 @@
 
 ### 研究综述
 
+- [[psychology-theory-alignment]] - AI情绪实验与心理学理论的一致性分析
+
 ### 实践指南
 
 ---
