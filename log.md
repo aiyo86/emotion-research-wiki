@@ -33,3 +33,9 @@
 ### 更新的文件：
 - index.md - 添加8个新页面的链接和总结
 - 更新总页面数为8，最后更新日期为2025-04-15
+
+
+## [2026-04-15] ingest | 论文集成 - emotion recognition
+- search_query: emotion recognition
+- papers_downloaded: 10
+- pages_created: 44
